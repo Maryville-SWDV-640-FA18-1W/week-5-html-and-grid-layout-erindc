@@ -14,9 +14,9 @@ h2, h3 {
 }
 
 .btn-primary:hover {
-  color: #fff;
-  background-color: #00d99e;
-  border-color: #00d99e;
+   color: #fff;
+   background-color: #00d99e;
+   border-color: #00d99e;
 }
 
 .center-btn {
